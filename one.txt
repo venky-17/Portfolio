@@ -2,3 +2,5 @@ first file
 
 
 major update
+
+added chart
