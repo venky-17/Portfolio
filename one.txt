@@ -5,7 +5,11 @@ major update
 
 added chart
 
+<<<<<<< Updated upstream
 
 add a conflict
 
 another
+=======
+add something
+>>>>>>> Stashed changes
